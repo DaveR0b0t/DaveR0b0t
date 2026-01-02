@@ -46,9 +46,8 @@
 ```
 
 📊 GitHub Stats
-```
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaveR0b0t&show_icons=true&theme=dark)
-```
 
 📌 Featured Projects
 ```
