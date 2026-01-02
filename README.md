@@ -38,7 +38,6 @@
 
 🔧 Tech Stack
 ```
-### 🧰 Tech Stack
 - Python
 - Git & GitHub
 - Linux
@@ -51,7 +50,6 @@
 
 📌 Featured Projects
 ```
-### 📌 Featured Projects
 - 🔹 **anime-scout
 - 🔹 **folder-organizer
 - 🔹 More coming soon...
