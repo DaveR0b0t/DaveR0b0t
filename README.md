@@ -6,7 +6,7 @@
 
 🐍 New programmer primarily focused on Python
 
-🎓 Studying Cybersecurity (Cyber Forensics emphasis) at Arizona University
+🎓 Studying Cybersecurity (Cyber Forensics emphasis) at University of Arizona
 
 📚 Mostly self-taught, learning through books, documentation, and online resources
 
