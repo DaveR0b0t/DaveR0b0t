@@ -53,6 +53,7 @@
 📌 Featured Projects
 ```
 ### 📌 Featured Projects
+- 🔹 **anime-scout
 - 🔹 **folder-organizer
 - 🔹 More coming soon...
 ```
