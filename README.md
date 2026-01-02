@@ -1,16 +1,58 @@
-# Hello, World! 🌎 I'm David 👋
+👋 Hello, World! I’m David
 
--👤 A new coder learning mostly Python.
+🎯 Aspiring Python Developer | Cybersecurity Student
 
--🏫 Studying at Arizona University with a majof in Cyber Security with an emphasis on Cyber Forensics.
+👤 About Me
 
--💼 Outside of school a mojority of my experience is self tought through different websites and books.
+🐍 New programmer primarily focused on Python
 
--🏆 I will be uploading some small projects soon.
+🎓 Studying Cybersecurity (Cyber Forensics emphasis) at Arizona University
 
--🔭 I'm currently working on small CLI tools and will be sharing them soon.
+📚 Mostly self-taught, learning through books, documentation, and online resources
 
--🌱 Always learning differnt ways to code, mostly in python but I want to learn other languages after I've gained a better grasp of Python.
+🔐 Strong interest in security, automation, and tooling
 
--💬 Ask me about anything and feedback is always welcome!
+💻 What I’m Working On
 
+🔭 Building small CLI tools in Python
+
+🏆 Uploading practice projects and experiments
+
+🌱 Continuously improving my Python fundamentals and exploring best practices
+
+🚀 Goals
+
+📈 Become confident writing clean, maintainable Python
+
+🌍 Learn additional languages once I’ve mastered Python fundamentals
+
+🛠️ Build practical tools related to automation and cybersecurity
+
+💬 Let’s Connect
+
+🤝 Open to feedback, suggestions, and collaboration
+
+❓ Feel free to ask me about my projects or learning journey
+
+“Every expert was once a beginner.”
+
+🔧 Tech Stack
+```
+### 🧰 Tech Stack
+- Python
+- Git & GitHub
+- Linux
+- CLI tools
+```
+
+📊 GitHub Stats
+```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaveR0b0t&show_icons=true&theme=dark)
+```
+
+📌 Featured Projects
+```
+### 📌 Featured Projects
+- 🔹 **folder-organizer
+- 🔹 More coming soon...
+```
