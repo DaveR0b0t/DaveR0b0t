@@ -22,6 +22,10 @@ My main areas of interest include:
 
 I am working on becoming a stronger Python developer by building projects, practicing cleaner code, and learning how to create tools that solve real problems. I am also interested in how software development and cybersecurity connect, especially in areas related to automation, analysis, and tooling.
 
+## Currently Building
+
+Right now I am spending most of my time building small Python projects, testing ideas, and learning through trial and error. Some of my repositories are polished projects, while others are experiments used to practice new concepts, improve my workflow, or explore cybersecurity-related topics.
+
 ## Goals
 
 - Build practical tools related to automation and cybersecurity
