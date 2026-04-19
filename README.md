@@ -1,6 +1,6 @@
 # David W
 
-Python developer in progress and cybersecurity student with an interest in automation, security, and hands-on problem solving. I use this space to build practical projects, test ideas, and document my growth as I learn.
+Cybersecurity student and Python developer focused on building practical tools, testing new ideas, and growing through hands-on projects and experiments.
 
 ## About Me
 
