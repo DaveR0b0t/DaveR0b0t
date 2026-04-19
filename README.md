@@ -1,35 +1,40 @@
 # David W
 
-Aspiring Python developer and cybersecurity student focused on building practical tools, strengthening core programming skills, and growing through hands-on projects.
+Python developer in progress and cybersecurity student with an interest in automation, security, and hands-on problem solving. I use this space to build practical projects, test ideas, and document my growth as I learn.
 
 ## About Me
 
-I am a cybersecurity student at the University of Arizona with a focus on cyber forensics. My main programming language is Python, and I spend most of my time learning through projects, documentation, and steady practice.
+I am studying cybersecurity at the University of Arizona with a focus on cyber forensics. Most of my work centers on Python, Linux, and command-line tools. I enjoy building useful projects, improving my programming fundamentals, and experimenting with new ideas to see what works.
 
-My interests include:
+## What You Will Find Here
+
+This GitHub profile is a mix of structured projects, learning exercises, and experiments. Some repositories reflect long-term skill building, while others are smaller tests used to explore a tool, workflow, or concept.
+
+My main areas of interest include:
 
 - Python development
-- Automation
 - Cybersecurity
+- Automation
 - Linux
-- Command-line tools
+- CLI tools
 
 ## Current Focus
 
-Right now I am working on small Python projects that help me improve my fundamentals and write cleaner, more maintainable code. I use this GitHub profile to share projects, experiments, and progress as I continue learning.
+I am working on becoming a stronger Python developer by building projects, practicing cleaner code, and learning how to create tools that solve real problems. I am also interested in how software development and cybersecurity connect, especially in areas related to automation, analysis, and tooling.
 
 ## Goals
 
 - Build practical tools related to automation and cybersecurity
-- Improve my ability to write clean, reliable Python
-- Expand into other languages after building a strong Python foundation
+- Strengthen my Python fundamentals and write cleaner code
+- Keep experimenting with new ideas, tools, and workflows
+- Grow into a well-rounded developer with a strong security mindset
 
 ## Tech Stack
 
 - Python
 - Git and GitHub
 - Linux
-- CLI Tools
+- CLI tools
 
 ## Featured Projects
 
@@ -42,4 +47,4 @@ Right now I am working on small Python projects that help me improve my fundamen
 
 ## Contact
 
-I am always open to feedback, suggestions, and opportunities to keep learning.
+I am open to feedback, collaboration, and connecting with others who enjoy building, learning, and experimenting.
