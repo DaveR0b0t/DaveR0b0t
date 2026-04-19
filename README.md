@@ -1,56 +1,45 @@
-👋 Hello, World! I’m David
+# David W
 
-🎯 Aspiring Python Developer | Cybersecurity Student
+Aspiring Python developer and cybersecurity student focused on building practical tools, strengthening core programming skills, and growing through hands-on projects.
 
-👤 About Me
+## About Me
 
-🐍 New programmer primarily focused on Python
+I am a cybersecurity student at the University of Arizona with a focus on cyber forensics. My main programming language is Python, and I spend most of my time learning through projects, documentation, and steady practice.
 
-🎓 Studying Cybersecurity (Cyber Forensics emphasis) at University of Arizona
+My interests include:
 
-📚 Mostly self-taught, learning through books, documentation, and online resources
-
-🔐 Strong interest in security, automation, and tooling
-
-💻 What I’m Working On
-
-🔭 Building small CLI tools in Python
-
-🏆 Uploading practice projects and experiments
-
-🌱 Continuously improving my Python fundamentals and exploring best practices
-
-🚀 Goals
-
-📈 Become confident writing clean, maintainable Python
-
-🌍 Learn additional languages once I’ve mastered Python fundamentals
-
-🛠️ Build practical tools related to automation and cybersecurity
-
-💬 Let’s Connect
-
-🤝 Open to feedback, suggestions, and collaboration
-
-❓ Feel free to ask me about my projects or learning journey
-
-“Every expert was once a beginner.”
-
-🔧 Tech Stack
-```
-- Python
-- Git & GitHub
+- Python development
+- Automation
+- Cybersecurity
 - Linux
-- CLI tools
-```
+- Command-line tools
 
-📊 GitHub Stats
+## Current Focus
 
-![Here](https://github-readme-stats.vercel.app/api?username=DaveR0b0t&show_icons=true&theme=dark)
+Right now I am working on small Python projects that help me improve my fundamentals and write cleaner, more maintainable code. I use this GitHub profile to share projects, experiments, and progress as I continue learning.
 
-📌 Featured Projects
-```
-- 🔹 **anime-scout
-- 🔹 **folder-organizer
-- 🔹 More coming soon...
-```
+## Goals
+
+- Build practical tools related to automation and cybersecurity
+- Improve my ability to write clean, reliable Python
+- Expand into other languages after building a strong Python foundation
+
+## Tech Stack
+
+- Python
+- Git and GitHub
+- Linux
+- CLI Tools
+
+## Featured Projects
+
+- [anime-scout](https://github.com/DaveR0b0t/anime-scout)
+- [folder-organizer](https://github.com/DaveR0b0t/folder-organizer)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaveR0b0t&show_icons=true&theme=dark)
+
+## Contact
+
+I am always open to feedback, suggestions, and opportunities to keep learning.
